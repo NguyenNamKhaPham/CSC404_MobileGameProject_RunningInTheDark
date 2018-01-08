@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 37d76bb937220a3419e3a1e8130a4257
+timeCreated: 1480385290
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base_Body_boy_polySurface12
+    100002: //RootNode
+    100004: initialShadingGroup_polySurface15
+    100006: initialShadingGroup_polySurface24
+    100008: initialShadingGroup_polySurface26
+    100010: initialShadingGroup_polySurface60
+    100012: initialShadingGroup_polySurface63
+    100014: polySurface36
+    100016: polySurface39
+    100018: Prop_Scythe1_GeoSphere001_Prop_Scythe1_initialShadingGroup_initialShadingGroup_polySurface27_polySurface25_polySurface21
+    400000: Base_Body_boy_polySurface12
+    400002: //RootNode
+    400004: initialShadingGroup_polySurface15
+    400006: initialShadingGroup_polySurface24
+    400008: initialShadingGroup_polySurface26
+    400010: initialShadingGroup_polySurface60
+    400012: initialShadingGroup_polySurface63
+    400014: polySurface36
+    400016: polySurface39
+    400018: Prop_Scythe1_GeoSphere001_Prop_Scythe1_initialShadingGroup_initialShadingGroup_polySurface27_polySurface25_polySurface21
+    2300000: Base_Body_boy_polySurface12
+    2300002: initialShadingGroup_polySurface15
+    2300004: initialShadingGroup_polySurface24
+    2300006: initialShadingGroup_polySurface26
+    2300008: initialShadingGroup_polySurface60
+    2300010: initialShadingGroup_polySurface63
+    2300012: polySurface36
+    2300014: polySurface39
+    2300016: Prop_Scythe1_GeoSphere001_Prop_Scythe1_initialShadingGroup_initialShadingGroup_polySurface27_polySurface25_polySurface21
+    3300000: Base_Body_boy_polySurface12
+    3300002: initialShadingGroup_polySurface15
+    3300004: initialShadingGroup_polySurface24
+    3300006: initialShadingGroup_polySurface26
+    3300008: initialShadingGroup_polySurface60
+    3300010: initialShadingGroup_polySurface63
+    3300012: polySurface36
+    3300014: polySurface39
+    3300016: Prop_Scythe1_GeoSphere001_Prop_Scythe1_initialShadingGroup_initialShadingGroup_polySurface27_polySurface25_polySurface21
+    4300000: Prop_Scythe1_GeoSphere001_Prop_Scythe1_initialShadingGroup_initialShadingGroup_polySurface27_polySurface25_polySurface21
+    4300002: initialShadingGroup_polySurface26
+    4300004: initialShadingGroup_polySurface15
+    4300006: initialShadingGroup_polySurface24
+    4300008: Base_Body_boy_polySurface12
+    4300010: polySurface36
+    4300012: initialShadingGroup_polySurface63
+    4300014: polySurface39
+    4300016: initialShadingGroup_polySurface60
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

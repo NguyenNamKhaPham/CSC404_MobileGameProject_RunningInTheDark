@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Candy
+  - Exittrigger
+  - environment
+  - Button_trigger
+  - Button_hold
+  - shadowDetect
+  - warning1
+  - warning
+  - smoke
+  - movableObject
+  - l1
+  - remove
+  - Button_trigger_level1
+  - pumpkin
+  - Rotator_trigger
+  - lock
+  - cart2
+  - cart1
+  - magic
+  - Button_trigger1_level3
+  - Button_trigger2_level3
+  - floor
+  - l01switch
+  - save
+  - s1
+  - s2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
